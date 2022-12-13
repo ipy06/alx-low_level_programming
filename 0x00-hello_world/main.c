@@ -7,5 +7,6 @@
  */
 int main(void)
 {
+	printf("Programming is Beautiful\n");
 	return (0);
 }
