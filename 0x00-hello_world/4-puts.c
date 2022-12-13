@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * This is the Hello Puts Program 
+ * This is the Hello Puts Program
  *
  * Return : 0 (Successful Program)
  *
