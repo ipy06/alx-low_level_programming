@@ -1,10 +1,8 @@
 #include <stdio.h>
 
 /**
- * This is the Hello Puts Program
- *
- * Return : 0 (Successful Program)
- *
+ * main - prints out the correct output then a new line
+ * Return: 0 if exited properly, non -zero if otherwise
  */
 int main(void)
 {
